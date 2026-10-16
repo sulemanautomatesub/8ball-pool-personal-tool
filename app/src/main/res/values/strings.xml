@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suleman Automates Helper</string>
+    <string name="app_description">Helper tool for 8 Ball Pool by Suleman Automates</string>
+    <string name="overlay_title">Suleman's Aim Assist</string>
+    <string name="shake_to_activate">Shake phone to activate Suleman's helper</string>
+    <string name="deactivate_alert">Suleman's helper deactivated</string>
+    <string name="activate_alert">Suleman's helper activated</string>
+</resources>

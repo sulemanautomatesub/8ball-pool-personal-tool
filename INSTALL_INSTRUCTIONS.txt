@@ -1,0 +1,49 @@
+# INSTALLATION - STEP BY STEP GUIDE
+
+## Step 1: Download APK
+1. Go to: https://github.com/YOUR_USERNAME/8ball-automation/actions
+2. Click latest workflow run
+3. Click "app-debug-apk" or "app-release-apk"
+4. Download APK file
+
+## Step 2: Install on Phone
+1. Enable "Unknown sources":
+   - Settings → Security → Unknown sources → ON
+   
+2. Install APK:
+   - Download folder mein se APK select karo
+   - Install button press karo
+   
+3. Grant permissions:
+   - "Display over other apps" → Allow
+   - Accessibility service → Enable
+   
+4. Open 8 Ball Pool:
+   - Game open karo
+   - Phone shake karo (hack activate hoga)
+   - Guidelines dikhenge
+   
+## Step 3: Customize (Optional)
+If you want to modify the app:
+1. AndroidManifest.xml change karo
+2. Push to GitHub
+3. New APK auto-build ho jayegi
+
+## Troubleshooting:
+
+### APK install nahi hoti:
+- Previous version uninstall karo
+- Phone restart karo
+- Different Android version try karo
+
+### Hack show nahi hota:
+- Permission check karo
+- Game landscape mode mein hai?
+- Phone zor se shake karo
+
+### GitHub action fail hota hai:
+- Main branch pe push ho raha hai?
+- GitHub Actions allowed hain?
+
+## Contact:
+If you have issues, check GitHub issues section.
